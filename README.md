@@ -43,3 +43,5 @@ We compared three retrieval methods on real e-commerce data:
 ---
 
 ## 🏗️ System Architecture
+<img width="965" height="2329" alt="image" src="https://github.com/user-attachments/assets/e1dda746-2ae9-4bfb-b6a2-a37bbee3dd45" />
+
