@@ -13,7 +13,6 @@ This project demonstrates a modern retrieval system that goes beyond traditional
 - Neural re-ranking
 - Multimodal (text + image) understanding
 
-The system is built to be **production-ready** in concept and showcases skills highly relevant for **Applied Scientist** roles at companies like Amazon, Google, and Meta.
 
 ---
 
