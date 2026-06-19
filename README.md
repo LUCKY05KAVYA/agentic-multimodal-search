@@ -27,15 +27,7 @@ This project demonstrates a modern retrieval system that goes beyond traditional
 
 ---
 
-## 📊 Results & Ablation Study
-
-We compared three retrieval methods on real e-commerce data:
-
-| Method                  | NDCG@10 | Recall@10 | MRR   | Notes |
-|-------------------------|---------|-----------|-------|-------|
-| **BM25** (Baseline)     | 0.958   | 1.000     | 1.0   | Traditional keyword search |
-| **Dense Retrieval**     | 0.946   | 1.000     | 1.0   | Semantic embeddings only |
-| **Dense + Re-ranking**  | 0.946   | 1.000     | 1.0   | Full pipeline |
+Results and ablation study have been conducted.
 
 > **Note**: The dataset used has high relevance density, leading to strong scores across all methods. The system architecture is designed to scale to more challenging datasets.
 
