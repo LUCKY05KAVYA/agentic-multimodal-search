@@ -13,13 +13,21 @@ This project proposes an Agentic Multimodal Search and Re-ranking System that dy
 The system intelligently analyzes user intent, retrieves semantically relevant products, re-ranks them using deep relevance estimation, and incorporates visual information through CLIP embeddings.
 
 ✨ Features
+
 🤖 Agentic query understanding using LangGraph
+
 🔍 Dense semantic retrieval with Sentence Transformers
+
 ⚡ Fast vector similarity search using FAISS
+
 🧠 Neural re-ranking using Cross-Encoder
+
 🖼️ Multimodal retrieval with OpenAI CLIP
+
 📊 Comprehensive evaluation using Information Retrieval metrics
+
 📈 Ablation studies demonstrating contribution of each module
+
 Results and ablation study have been conducted.
 
 ## 🏗️ System Architecture
