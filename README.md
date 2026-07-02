@@ -57,7 +57,7 @@ Best seller information
 | Vector Database   | FAISS                                |
 | Neural Re-ranking | cross-encoder/ms-marco-MiniLM-L-6-v2 |
 | Multimodal Model  | OpenAI CLIP                          |
-| Development       | Google Colab                         |
+
 
 📊 EXPERIMENTAL RESULTS
 
