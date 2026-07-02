@@ -24,7 +24,7 @@ Results and ablation study have been conducted.
 
 ## 🏗️ System Architecture
 
-![System Architecture](images/architecture.png)
+![System Architecture](architecture.png)
 
 📂 Dataset
 
@@ -63,6 +63,10 @@ Best seller information
 
 The proposed framework consistently outperformed traditional lexical retrieval methods by integrating semantic understanding, neural ranking, and multimodal representations.
 
+Workflow Diagram
+
+![Workflow Diagram](workflow.png)
+
 📈 Ablation Study
 
 | Configuration     | NDCG@10  |
@@ -74,6 +78,7 @@ The proposed framework consistently outperformed traditional lexical retrieval m
 
 
 These experiments demonstrate the contribution of each component toward improving retrieval effectiveness.
+![Ablation Study](ablation_chart.png)
 
 📚 Paper
 
