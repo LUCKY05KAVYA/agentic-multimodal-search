@@ -1,10 +1,10 @@
-# 🚀 Agentic Multimodal Search & Re-ranking System
+# 🚀 AGENTIC MULTIMODAL SEARCH AND RERANKING SYSTEM
 
 An intelligent, end-to-end search system for e-commerce that combines **agentic reasoning**, **semantic understanding**, **neural re-ranking**, and **multimodal capabilities**.
 
 ---
 
-📖 Overview
+📖 OVERVIEW
 
 Modern e-commerce platforms contain millions of products, making accurate retrieval increasingly challenging. Traditional keyword-based search engines often fail to capture semantic intent and multimodal product information.
 
@@ -12,7 +12,7 @@ This project proposes an Agentic Multimodal Search and Re-ranking System that dy
 
 The system intelligently analyzes user intent, retrieves semantically relevant products, re-ranks them using deep relevance estimation, and incorporates visual information through CLIP embeddings.
 
-✨ Features
+✨ FEATURES
 
 🤖 Agentic query understanding using LangGraph
 
@@ -30,11 +30,11 @@ The system intelligently analyzes user intent, retrieves semantically relevant p
 
 Results and ablation study have been conducted.
 
-## 🏗️ System Architecture
+## 🏗️ SYSTEM ARCHITECTURE
 
 ![System Architecture](architecture.png)
 
-📂 Dataset
+📂 DATASET
 
 Amazon Products Dataset
 
@@ -47,7 +47,7 @@ Prices
 Images
 Best seller information
 
-🛠️ Tech Stack
+🛠️ TECH STACK
 
 | Component         | Technology                           |
 | ----------------- | ------------------------------------ |
@@ -59,7 +59,7 @@ Best seller information
 | Multimodal Model  | OpenAI CLIP                          |
 | Development       | Google Colab                         |
 
-📊 Experimental Results
+📊 EXPERIMENTAL RESULTS
 
 | Method                                 | NDCG@10  | Recall@10 | MRR      |
 | -------------------------------------- | -------- | --------- | -------- |
@@ -71,11 +71,11 @@ Best seller information
 
 The proposed framework consistently outperformed traditional lexical retrieval methods by integrating semantic understanding, neural ranking, and multimodal representations.
 
-Workflow Diagram
+WORKFLOW DIAGRAM
 
 ![Workflow Diagram](workflow.png)
 
-📈 Ablation Study
+📈 ABLATION STUDY
 
 | Configuration     | NDCG@10  |
 | ----------------- | -------- |
@@ -88,15 +88,16 @@ Workflow Diagram
 These experiments demonstrate the contribution of each component toward improving retrieval effectiveness.
 ![Ablation Study](ablation_chart.png)
 
-📚 Paper
+📚 RESEARCH PAPER
 
 Agentic Multimodal Search and Re-ranking System for E-commerce Product Retrieval
 
 This repository contains the implementation accompanying the research paper proposing an adaptive retrieval framework that combines agentic reasoning, semantic search, neural re-ranking, and multimodal learning for intelligent e-commerce search.
 
-👩‍💻 Author
+👩‍💻 AUTHOR
 
 Lakshmi Mayuri Kavya N
 
 📧 Email: lucky05kavya@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-mayuri-kavya-813157227/
